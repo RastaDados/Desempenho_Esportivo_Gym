@@ -41,18 +41,16 @@ Este ptojeto é uma solução ponta-a-ponta, completa, cobrindo desde a geraçã
 
 ### 🔗 Links
 
-- Dashboard do Power BI: Acesse
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjgyYjdhMGMtNDAzOC00YzhhLWE2OGItZjJlYTI5YWYzMmYwIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-- Análise em SQL: Acesse
+- Análise Descritiva Via Querys SQL: <a href="https://github.com/RastaDados/Desempenho_Esportivo_Gym/blob/main/An%C3%A1lise%20Descritiva%20com%20SQL.md">Acesse</a>
 
-- Apresentação (Business Analysis): Acesse
+- Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Desempenho_Esportivo_Gym/blob/main/An%C3%A1lise%20de%20Mercado%20-%20Business.md">Acesse</a> 
 
-- Dashboards e Códigos Utilizados neste Projeto: Acesse
-
-- Querys (SQL): Acesse
+- Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/Desempenho_Esportivo_Gym/tree/main/C%C3%B3digos">Acesse</a>
 
 <hr>
 
 ### ✍️ Autor
 
-- Mateus França - LinkedIn
+- Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">LinkedIn</a>
