@@ -4,7 +4,7 @@
 
 ### Sobre o Projeto
 
-O projeto foi desenvolvido com o objetivo de construir uma plataforma analítica completa para academias e centros esportivos o foco do projeto é:
+O projeto foi desenvolvido com o objetivo de construir uma plataforma analítica completa para academias e centros esportivos, o foco do projeto é:
 
 - Aumentar a retenção de alunos e reduzir evasões
 - Medir e acompanhar o progresso físico e engajamento
