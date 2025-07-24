@@ -53,7 +53,7 @@ print(df_1)
 
 #### Frequência Média Semanal
 
-```pythonn
+```sql
 sql_2 = """
 SELECT AVG(total_presencas) AS freq_media_semanal
 FROM fato_frequencia;
